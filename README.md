@@ -2,7 +2,7 @@
 
 <p>Sejam muito bem vindos.
 
-Sou militar há 13 anos, desde 2009, e estou em busca da transição de carreira como desenvolvedor de aplicativo mobile.
+Sou militar há 14 anos, desde 2009, e estou em busca da transição de carreira como desenvolvedor de aplicativo mobile.
 
 Há uns 4 meses decidi e comecei a estudar a linguagem Kotlin pela JetBrains, seguindo o roadmap.sh, porém minha base em computação é muito vaga.
 
