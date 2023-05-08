@@ -2,11 +2,7 @@
 
 <p>Sejam muito bem vindos.
 
-Sou militar há 14 anos, desde 2009, e estou em busca da transição de carreira como desenvolvedor de aplicativo mobile.
-
-Há uns 4 meses decidi e comecei a estudar a linguagem Kotlin pela JetBrains, seguindo o roadmap.sh, porém minha base em computação é muito vaga.
-
-Sendo assim mudei o sistema opecional do meu PC para o Linux (Arch, por ser desafiador), iniciei o curso de Full Stack na Digital House para ter uma base melhor e continuo o curso de Kotlin pela JetBrains. Faço curso de montagem e manutenção pelo Youtube e estou lendo livros sobre o tema. A lista é grande, mas atualmente iniciei a leitura "Redes de Computadores de Andrew T. Tanenbaum" e "Organização e Projetos de Computadores de Jonh Hennessy"(intervalo os dias).
+Atualmente estudo programação.
 </p>  
 
 
@@ -15,7 +11,7 @@ Sendo assim mudei o sistema opecional do meu PC para o Linux (Arch, por ser desa
 
 
 <h4>Digital House:</h4>
-<p>Curso iniciado no dia 1° de Agosto de 2022 terá duração de dois anos</p>
+<p>Curso iniciado no dia 1° de Agosto de 2022 terá duração de dois anos e 9 meses</p>
 
 <div>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />  
