@@ -1,11 +1,5 @@
 <h2>Fala galerinha, sou André Paulo!</h2>
 
-<p>Sejam muito bem vindos.
-
-Atualmente estudo programação.
-</p>  
-
-
 <h3>Casa de cursos e Meus focos de Apredizagem</h3>
 
 
